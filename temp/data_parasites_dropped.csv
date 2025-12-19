@@ -1,4 +1,4 @@
-,id, user, lat, long, date_taken_minute, date_taken_hour, date_taken_day, date_taken_month, date_taken_year, date_upload_minute, date_upload_hour, date_upload_day, date_upload_month, date_upload_year
+,id,user,lat,long,date_taken_minute,date_taken_hour,date_taken_day,date_taken_month,date_taken_year,date_upload_minute,date_upload_hour,date_upload_day,date_upload_month,date_upload_year
 42366,5464485473,35635047@N03,45.765517,4.76651,6.0,21,2,2011,11,15,21,2.0,2011,
 47232,5464485473,35635047@N03,45.765517,4.76651,25.0,6,21,2,2011,11,15,21.0,2,2011.0
 70040,6298224099,40936370@N00,45.837448,4.826248,51.0,14,31,10,2011,19.0,14,31.0,10,2011.0
